@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<Coletanea>
+  <Artista>
+    <Nome>Cássia Eller</Nome>
+    <Genero>Rock alternativo</Genero>
+    <Genero>Grunge</Genero>
+    <Album>
+        <Nome>Acústico MTV</Nome>
+        <Lancamento>2001</Lancamento>
+        <Gravadora>Universal Music</Gravadora>
+        <Musicas>
+            <Track>Non, je ne regrette rien</Track>
+            <Track>Malandragem</Track>
+            <Track>E.C.T.</Track>
+            <Track>Vá Morar com o Diabo</Track>
+            <Track>Partido Alto</Track>
+            <Track>1º de Julho</Track>
+            <Track>Luz dos Olhos</Track>
+            <Track>Todo Amor Que Houver Nessa Vida</Track>
+            <Track>Queremos Saber</Track>
+            <Track>Por Enquanto</Track>
+            <Track>Relicário (participação de Nando Reis)</Track>
+            <Track>O Segundo Sol</Track>
+            <Track>Nós</Track>
+            <Track>Sgt. Pepper's Lonely Hearts Club Band</Track>
+            <Track>De Esquina (participação de Xis e Nação Zumbi)</Track>
+            <Track>Quando a Maré Encher (participação de Nação Zumbi)</Track>
+            <Track>Top Top</Track>
+        </Musicas>
+    </Album>
+    <Album>
+        <Nome>Com Você... Meu Mundo Ficaria Completo</Nome>
+        <Lancamento>1999</Lancamento>
+        <Gravadora>Universal Music</Gravadora>
+        <Musicas>
+            <Track>O Segundo Sol</Track>
+            <Track>Mapa do Meu Nada</Track>
+            <Track>Gatas Extraordinárias</Track>
+            <Track>Um Branco, Um Xis, Um Zero</Track>
+            <Track>Meu Mundo Ficaria Completo (Com Você)</Track>
+            <Track>Palavras ao Vento</Track>
+            <Track>Aprendiz de Feiticeiro</Track>
+            <Track>Pedra Gigante</Track>
+            <Track>Infernal</Track>
+            <Track>Maluca</Track>
+            <Track>As Coisas Tão Mais Lindas</Track>
+            <Track>Esse Filme Eu Já Vi</Track>
+        </Musicas>
+    </Album>
+  </Artista>
+  <Artista>
+    <Nome>Legião Urbana</Nome>
+    <Genero>Rock alternativo</Genero>
+    <Genero>Pós-punk</Genero>
+    <Album>
+        <Nome>Dois</Nome>
+        <Lancamento>1986</Lancamento>
+        <Gravadora>EMI</Gravadora>
+        <Musicas>
+            <Track>Daniel Na Cova Dos Leões</Track>
+            <Track>Quase Sem Querer</Track>
+            <Track>Acrilic On Canvas</Track>
+            <Track>Eduardo e Mônica</Track>
+            <Track>Central Do Brasil</Track>
+            <Track>Tempo Perdido</Track>
+            <Track>Metrópole</Track>
+            <Track>Plantas Embaixo Do Aquário</Track>
+            <Track>Música Urbana 2</Track>
+            <Track>Andrea Doria</Track>
+            <Track>Fábrica</Track>
+            <Track>Índios</Track>
+            <Track>Química</Track>
+        </Musicas>
+    </Album>
+    <Album>
+        <Nome>As Quatro Estações - Ao Vivo</Nome>
+        <Lancamento>2004</Lancamento>
+        <Gravadora>Universal Music</Gravadora>
+        <Musicas>
+            <Track>Fábrica </Track>
+            <Track>Daniel na Cova Dos Leões</Track>
+            <Track>O Reggae/ Plantas Embaixo do Aquário</Track>
+            <Track>Há Tempos </Track>
+            <Track>Meninos e Meninas </Track>
+            <Track>Pais e Filhos/ Stand by Me</Track>
+            <Track>Maurício/ She Loves You </Track>
+            <Track>Feedback Song for a Dying Friend</Track>
+            <Track>1965 (Duas Tribos)</Track>
+            <Track>Monte Castelo </Track>
+            <Track>Geração Coca-Cola </Track>
+            <Track>Angra dos Reis</Track>
+            <Track>Soldados/ Help/ Ball and Chain</Track>
+            <Track>Se Fiquei Esperando Meu Amor Passar </Track>
+            <Track>Quase Sem Querer</Track>
+            <Track>Índios</Track>
+        </Musicas>
+    </Album>
+  </Artista>
+</Coletanea>
